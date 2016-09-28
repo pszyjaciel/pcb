@@ -1,5 +1,3 @@
-![stack Overflow](http://lmsotfy.com/so.png)
-
 This is the project I made in the last time.
 A redesign from an existing PCB with soldered electronic components on boards.
 The issue with this board was, that the copper has oxidated and the device did not work any more.
