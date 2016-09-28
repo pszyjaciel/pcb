@@ -1,0 +1,9 @@
+LANGUAGE=EXCELLON 2
+;===============================================================
+APE_INCH
+COORD_INCH    
+ASCII
+TRAILING
+ABSOLUTE
+FORMAT=2.4
+END_OF_BLOCK=\015

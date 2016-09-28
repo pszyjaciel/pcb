@@ -1,0 +1,85 @@
+*
+*
+G04 PADS Layout (Build Number 2007.42.1) generated Gerber (RS-274-X) file*
+G04 PC Version=2.1*
+*
+%IN "mhe1296_v4.pcb"*%
+*
+%MOIN*%
+*
+%FSLAX35Y35*%
+*
+*
+*
+*
+G04 PC Standard Apertures*
+*
+*
+G04 Thermal Relief Aperture macro.*
+%AMTER*
+1,1,$1,0,0*
+1,0,$1-$2,0,0*
+21,0,$3,$4,0,0,45*
+21,0,$3,$4,0,0,135*
+%
+*
+*
+G04 Annular Aperture macro.*
+%AMANN*
+1,1,$1,0,0*
+1,0,$2,0,0*
+%
+*
+*
+G04 Odd Aperture macro.*
+%AMODD*
+1,1,$1,0,0*
+1,0,$1-0.005,0,0*
+%
+*
+*
+G04 PC Custom Aperture Macros*
+*
+*
+*
+*
+*
+*
+G04 PC Aperture Table*
+*
+%ADD021C,0.001*%
+*
+*
+*
+*
+G04 PC Copper Outlines (0)*
+G04 Layer Name mhe1296_v4.pcb - dark (0)*
+%LPD*%
+*
+*
+G04 PC Area=Custom_Thermal*
+*
+G04 PC Custom Flashes*
+G04 Layer Name mhe1296_v4.pcb - flashes*
+%LPD*%
+*
+*
+G04 PC Circuitry*
+G04 Layer Name mhe1296_v4.pcb - circuitry*
+%LPD*%
+*
+G54D21*
+G01X470079Y100000D02*
+Y381102D01*
+X450394*
+Y375197*
+X121654*
+X100000Y381102D02*
+Y100000D01*
+X121654Y375197D02*
+Y381102D01*
+X100000*
+Y100000D02*
+X470079D01*
+X0Y0D02*
+M02*
